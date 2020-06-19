@@ -1,0 +1,17 @@
+G:\VSFolder\WindowsFormsApp3\bin\Release\RestSharp.dll
+G:\VSFolder\WindowsFormsApp3\bin\Release\RestSharp.xml
+G:\VSFolder\WindowsFormsApp3\bin\Release\Interop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\bin\Release\AxInterop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojAssemblyReference.cache
+G:\VSFolder\WindowsFormsApp3\obj\Release\Interop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\obj\Release\AxInterop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.ResolveComReference.cache
+G:\VSFolder\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+G:\VSFolder\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+G:\VSFolder\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+G:\VSFolder\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CopyComplete
+G:\VSFolder\WindowsFormsApp3\bin\Release\云班课助手.exe.config
+G:\VSFolder\WindowsFormsApp3\bin\Release\云班课助手.exe
+G:\VSFolder\WindowsFormsApp3\bin\Release\云班课助手.pdb
+G:\VSFolder\WindowsFormsApp3\obj\Release\云班课助手.exe
+G:\VSFolder\WindowsFormsApp3\obj\Release\云班课助手.pdb

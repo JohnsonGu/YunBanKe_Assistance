@@ -1,0 +1,17 @@
+G:\VSFolder\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+G:\VSFolder\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+G:\VSFolder\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+G:\VSFolder\WindowsFormsApp3\bin\Debug\Interop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\bin\Debug\AxInterop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\obj\Debug\Interop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\obj\Debug\AxInterop.SHDocVw.dll
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+G:\VSFolder\WindowsFormsApp3\bin\Debug\RestSharp.dll
+G:\VSFolder\WindowsFormsApp3\bin\Debug\RestSharp.xml
+G:\VSFolder\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
